@@ -7,7 +7,7 @@ Hadis mecmualarının en sahihleri kabul edilen; Buhârî ve Müslim'in el-Câmi
 
 Hadis mecmualarının en sahihleri kabul edilen; Buhârî ve Müslim'in el-Câmiu's-Sahih'leri ile Ebu Davud, Tirmizi, Nesâî ve ibn Mâce'nin Sünen'leri'nde yer alan yaklaşık 7300 Hadis-i Şerifi sitenize ekleyerek bloğunuzu bir hadis portalına çevirebilirsiniz.
 
-Bölüm, ve konu olarak hadis seçme ve kelime arayarak hadis bulma özellikleri ile hadislere kolay erişim sağlayabilirsiniz.
+Bölüm, ve konu olarak hadis seçme ve kelime arayarak hadis bulma özellikleri ile hadislere kolay erişim sağlayabilir siniz.
 
 Eklentinin hazırlanmasında; muhaddis.org sitesinde yayınlanan Kütüb-i Sitte veritabanı kullanılmıştır.
 

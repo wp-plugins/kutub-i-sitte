@@ -2,7 +2,7 @@
 /*
 Plugin Name: Kütüb-i Sitte
 Plugin URI: http://wordpress.org/extend/plugins/kutub-i-sitte/
-Description: Kütüb-i Sitte
+Description: Hadis mecmualarının en sahihleri kabul edilen; Buhârî ve Müslim'in el-Câmiu's-Sahih'leri ile Ebu Davud, Tirmizi, Nesâî ve ibn Mâce'nin Sünen'leri'nde yer alan yaklaşık 7300 Hadis-i Şerifi sitenize ekleyerek bloğunuzu bir hadis portalına çevirebilirsiniz.
 Version: 1.0
 Author: Süleyman ÜSTÜN
 Author URI: http://suleymanustun.com
